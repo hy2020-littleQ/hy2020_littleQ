@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "get-detail": "/pages/getDetail/getDetail"
+  }
+}
